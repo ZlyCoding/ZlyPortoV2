@@ -1,0 +1,25 @@
+{
+  "name": "zlyporto2",
+  "version": "1.0.0",
+  "description": "Portofolio Modern Style",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZlyCoding/ZlyPortoV2.git"
+  },
+  "keywords": [
+    "portofolio",
+    "web",
+    "introduction",
+    "simpleweb"
+  ],
+  "author": "ZlyFr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZlyCoding/ZlyPortoV2/issues"
+  },
+  "homepage": "https://github.com/ZlyCoding/ZlyPortoV2#readme"
+}
