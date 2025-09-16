@@ -17,6 +17,7 @@ Jika ingin meng-hosting, bisa menggunakan layanan gratis seperti:
 - **Netlify**  
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ZlyCoding/ZlyPortoV2)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ZlyCoding/ZlyPortoV2)
 
 ### 🚀 Deploy ke GitHub Pages  
 1. Fork atau clone repository ini  
